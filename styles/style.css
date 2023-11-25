@@ -9,6 +9,10 @@ a {
 ul {
     list-style: none;
 }
+
+body {
+    background: cyan;
+}
 .container {
     max-width: 1140px;
     width: 100%;
@@ -543,7 +547,6 @@ ul {
 .header__content_link,
 .project__box-link {
     height: 30px;
-}
 .project_box {
     display: flex;
     flex-direction: column;
